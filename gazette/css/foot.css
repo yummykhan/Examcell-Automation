@@ -1,0 +1,23 @@
+table, th, td {
+	table-layout: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 10px;
+}
+
+
+.big_table{
+	float: left;
+	margin-left: 20px;
+}
+
+.second_table{
+	float: left;
+	margin-left: 20px;
+
+}
+
+.third_table{
+	float: left;
+	margin-left: 20px;
+}
